@@ -1,0 +1,57 @@
+baseURL = "https://YonseiMusicLab.github.io/"
+languageCode = "ko"
+defaultContentLanguage = "ko"
+title = "YML - Yeonsei Music Lab"
+theme = "hugo-coder"
+
+
+pagination.pageSize = 10
+
+
+[params]
+  author = "YML Studio"
+  info = """<br>작곡<br>(예중,예고,대입,취미)<br><br>중등음악임용<br><br>음악예술수업<br><br>피아노"""
+  description = "음악 입시 · 임용 대비 · 피아노 고수준 전문 교육 공간"
+  keywords = "음악학원, 작곡, 피아노, 입시, 임용, 성인피아노"
+  avatarurl = "images/YML_LOGO.png"
+
+
+
+  footercontent = "© 2025 YML Studio. All rights reserved."
+  hidecredits = true
+  hidecopyright = false
+  rtl = false
+  themeColor = "white"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+[languages.ko]
+  languagename = "한국어"
+  weight = 1
+
+[[menu.main]]
+  name = "홈"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "수업안내"
+  url = "/classes/"
+  weight = 2
+
+[[menu.main]]
+  name = "합격자 후기"
+  url = "/reviews/"
+  weight = 3
+
+[[menu.main]]
+  name = "자료실"
+  url = "/resources/"
+  weight = 4
+
+[[menu.main]]
+  name = "문의하기"
+  url = "/contact/"
+  weight = 5
