@@ -9,7 +9,7 @@ title: "YML Studio"
 <br/>
 
 <center>
-  <h2 style="font-size: 3.3rem; margin-bottom: 10px;">YML Studio</h2>
+  <h2 style="font-size: 2.0rem; margin-bottom: 10px;">YML Studio</h2>
   <p>
     작곡<br>(예중, 예고, 대입, 취미)<br>
     중등음악임용<br>
