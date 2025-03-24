@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YML Studio on YML - Yeonsei Music Lab</title>
+    <link>https://YonseiMusicLab.github.io/</link>
+    <description>Recent content in YML Studio on YML - Yeonsei Music Lab</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <atom:link href="https://YonseiMusicLab.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
