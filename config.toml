@@ -5,6 +5,9 @@ title = "YML - Yeonsei Music Lab"
 theme = "hugo-coder"
 canonifyURLs = true 
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 pagination.pageSize = 10
 
 
