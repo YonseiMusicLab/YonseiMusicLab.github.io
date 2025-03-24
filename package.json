@@ -1,0 +1,23 @@
+{
+  "name": "yml-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YonseiMusicLab/YonseiMusicLab.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YonseiMusicLab/YonseiMusicLab.github.io/issues"
+  },
+  "homepage": "https://github.com/YonseiMusicLab/YonseiMusicLab.github.io#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
