@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on YML - Yeonsei Music Lab</title>
-    <link>https://YonseiMusicLab.github.io/tags/</link>
+    <link>https://spontaneous-meringue-cc58eb.netlify.app/tags/</link>
     <description>Recent content in Tags on YML - Yeonsei Music Lab</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <atom:link href="https://YonseiMusicLab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spontaneous-meringue-cc58eb.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
