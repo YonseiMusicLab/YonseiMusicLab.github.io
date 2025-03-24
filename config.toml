@@ -3,7 +3,7 @@ languageCode = "ko"
 defaultContentLanguage = "ko"
 title = "YML - Yeonsei Music Lab"
 theme = "hugo-coder"
-
+canonifyURLs = true 
 
 pagination.pageSize = 10
 

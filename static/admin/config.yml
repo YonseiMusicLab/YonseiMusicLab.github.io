@@ -15,4 +15,3 @@ collections:
       - { label: "제목", name: "title", widget: "string" }
       - { label: "작성일", name: "date", widget: "datetime" }
       - { label: "내용", name: "body", widget: "markdown" }
-# deploy trigger
