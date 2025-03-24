@@ -5,7 +5,16 @@
     <title>YML Admin</title>
   </head>
   <body>
-    <!-- Netlify CMS 불러오는 스크립트 -->
+    <!-- Netlify CMS 로딩 스크립트 -->
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+
+    <!-- CMS 설정 경로 지정 -->
+    <script>
+      window.CMS_MANUAL_INIT = true;
+      window.CMS_CONFIG = "/admin/config.yml";
+      window.addEventListener("load", () => {
+        window.initCMS();
+      });
+    </script>
   </body>
 </html>
