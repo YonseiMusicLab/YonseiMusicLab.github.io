@@ -8,7 +8,7 @@ draft: false
 
 **YML - 연세 뮤직 랩**은 부산교육대학교 인근에 위치한 음악 전문 교육 공간입니다.
 
-- 📍 주소: 부산 연제구 교대로 7 3층
+- 📍 주소: 부산 연제구 교대로 7 보느제과건물 3층
 - 🚆 지하철: 교대역 3번 출구에서 61m 
 - 🅿️ 주차 : 건물 맞은편 유료주차장 또는 부산교대 주차장 유료이용 가능 (지원X)
 
@@ -20,7 +20,7 @@ draft: false
 ## 지도
 
 <iframe 
-  src="https://www.google.com/maps?q=35.195290,129.078951&hl=ko&z=17&output=embed" 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3265.249805905324!2d129.0767658152392!3d35.19521418031056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3568926c4b2b5db5%3A0x44a2cf2797306d04!2z67aA7IKw6rWQIOuMgOuzuOq1rCDqsIDrjIDroZw!5e0!3m2!1sko!2skr!4v1712130000000!5m2!1sko!2skr" 
   width="100%" 
   height="400" 
   style="border:0;" 
@@ -28,3 +28,4 @@ draft: false
   loading="lazy" 
   referrerpolicy="no-referrer-when-downgrade">
 </iframe>
+
