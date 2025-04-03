@@ -45,16 +45,21 @@ unsafe = true
   weight = 2
 
 [[menu.main]]
+  name = "오시는 길"
+  url = "/location/"
+  weight = 3
+
+[[menu.main]]
   name = "합격자 후기"
   url = "/reviews/"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "자료실"
   url = "/resources/"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "문의하기"
   url = "/contact/"
-  weight = 5
+  weight = 6
