@@ -19,4 +19,4 @@ draft: false
 
 ### 지도
 
-<iframe src="https://www.google.co.kr/maps/place/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C+%EC%97%B0%EC%A0%9C%EA%B5%AC+%EA%B5%90%EB%8C%80%EB%A1%9C+7+3%EC%B8%B5/data=!3m1!4b1!4m5!3m4!1s0x356893679fe57031:0x66f08a34ad8597be!8m2!3d35.1952582!4d129.0789195?hl=ko&entry=ttu&g_ep=EgoyMDI1MDMzMS4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.app.goo.gl/GymX3owwXqi4mJeD6" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
